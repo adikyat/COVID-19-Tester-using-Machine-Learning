@@ -1,0 +1,2 @@
+# COVID-19-
+The dataset has some data which is officially available for research in COVID-19 and some I have added randomly by referring to various common facts and news articles about COVID-19 because the required data for every feature for my project is not available yet. This model can be used to give us the idea about the quantity of medical and administrative facilities needed. This model uses travel history, so it will detect the persons who have not yet acquired any symptoms but would be acquiring.
